@@ -1,0 +1,18 @@
+{
+  "name": "curso-react-midu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-confetti": "1.8.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
